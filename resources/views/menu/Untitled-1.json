@@ -1,0 +1,23 @@
+ {
+    "happyHourId": "HHBI-5d432993c41b7",
+    "itemId": "Mercy-MI-5d43078ab9d05",
+    "serviceProviderId": "SP-5d4306f1c271f",
+    "discountPercent": 15,
+    "description": "<p>yes<\/p>",
+    "start": "2019-08-01 18:03:55",
+    "end": "2019-12-31 23:59:00",
+    "created_at": "2019-08-01 18:04:03",
+    "updated_at": "2019-08-01 18:04:03",
+    "menu_items": {
+        "itemId": "Mercy-MI-5d43078ab9d05",
+        "itemsGroupId": "IG-5d43021d5293b",
+        "serviceProviderId": "SP-5d4306f1c271f",
+        "picture": "Mercy_Burger_1564673930.jpg",
+        "availability": 1,
+        "name": "Burger",
+        "price": 100,
+        "description": "<p>yes<\/p>",
+        "created_at": "2019-08-01 15:38:50",
+        "updated_at": "2019-08-01 15:38:50"
+    }
+}
